@@ -25,7 +25,7 @@ DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 # Needed when DEBUG=False
-ALLOWED_HOSTS = ['superlists-staging.greenwood-pdx.org']
+ALLOWED_HOSTS = [ 'greenwood-pdx.ddns.net' ]
 
 
 # Application definition
